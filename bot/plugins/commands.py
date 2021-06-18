@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Update Channel', url="https://t.me/BX_Botz"
+                                    '🔊 Update Channel 🔊', url="https://t.me/Ma_Cartoonzz"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Update Channel', url="https://t.me/BX_Botz"
+                                    '🔊 Update Channel 🔊', url="https://t.me/Ma_Cartoonzz"
                                 )
                         ]
                     ]
@@ -76,7 +76,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Update Channel', url="https://t.me/BX_Botz"
+                                    '🔊 Update Channel 🔊', url="https://t.me/Ma_Cartoonzz"
                                 )
                         ]
                     ]
@@ -89,10 +89,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Update Channel', url='https://t.me/BX_Botz'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://github.com/MufazTGTG/AutoFilterBXBot-V2')
+        InlineKeyboardButton('📫 Update Channel', url='https://t.me/Ma_Cartoonzz'),
+        InlineKeyboardButton('Source Code 🧾', url ='https://github.com/MufazTG/AutoFilterBXBot-V2')
     ],[
-        InlineKeyboardButton('Support Group', url='https://t.me/BxSupport')
+        InlineKeyboardButton('⚜️Support Group', url='https://t.me/Ma_Cartoonzz_Discuss')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
